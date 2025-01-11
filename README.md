@@ -1,4 +1,4 @@
-##  <h2 align="center">Now it's hero time !!</h2> ![KRISH 🌕](https://github.com/addresskrish/addresskrish/blob/main/GithubBanner.png)
+##  <h2 align="center">Now it's a hero time !!</h2> ![KRISH 🌕](https://github.com/addresskrish/addresskrish/blob/main/GithubBanner.png)
 
 - 🔭 I’m currently working on GFG 160 POTD Challage
 - 🌱 I’m currently learning Python with DSA & Devlopment
