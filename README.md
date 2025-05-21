@@ -1,3 +1,3 @@
 ```
->> 👋 Hello There I am Krish!
+>> Krish!
 ```
