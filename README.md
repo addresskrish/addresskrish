@@ -1,4 +1,4 @@
-<h4 align="centre">20 ✸ webdev ✸ 業</h4>
+<h4 align="centre">20 ✸ webdev</h4>
 <!-- <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNjbHJ3aGFsNHdrbXcxczdzcjdmNWVkaXFha3dtMHg4aG1mbmVsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BDZF7kPc3FzJwWjzeP/giphy.gif" alt="GIF" style="width: 120%;" />
   <br />
