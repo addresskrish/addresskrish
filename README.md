@@ -7,6 +7,6 @@
   <br />
 </p> 
 <h3 align="center">WebDev</h3>
-<h3 align="center">Currently learning Next JS</h3>
+<h3 align="center">Currently learning Typescript</h3>
 <h3 align="center">Grinding Leetcode</h3>
 <!-- <br> -->
