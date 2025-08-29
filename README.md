@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/sfHfCB6J/ronaldo.jpg" alt="IMAGE" style="width: 60%; height: 30%;" />
+  <img src="https://i.postimg.cc/sfHfCB6J/ronaldo.jpg" alt="IMAGE" style="width: 1000%; height: 30%;" />
  <br />
 </p> 
 <h4 align="center">20  ✸  webdev</h4>
