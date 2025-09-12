@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/1tgfv66H/lightcatcher.jpg" alt="IMAGE" style="width: 100%; height: 30%;" />
+  <img src="https://i.postimg.cc/GtxrKhMK/Ah-Negitorow.gif" alt="IMAGE" style="width: 100%; height: 100%;" />
  <br />
 </p>
 <h4 align="center">20  ✸  webdev</h4>
