@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/BZLKpWB0/Chat-GPT-Image-Sep-13-2025-04-24-18-AM.png" alt="IMAGE" style="width: 100%; height: 50%;" />
+  <img src="https://i.postimg.cc/1tgfv66H/lightcatcher.jpg" alt="IMAGE" style="width: 100%; height: 30%;" />
  <br />
 </p>
 <h4 align="center">20  ✸  webdev</h4>
