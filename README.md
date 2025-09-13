@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://i.postimg.cc/GtxrKhMK/Ah-Negitorow.gif" alt="IMAGE" style="width: 100%; height: 100%;" />
  <br />
+ <br />
+  <img src="https://count.getloli.com/@addresskrish?name=addresskrish&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="name" />
 </p>
 <!-- <h4 align="center">20  ✸  webdev</h4> -->
 <!--  <p align="center">
