@@ -1,7 +1,4 @@
-<!-- [![An image of @addresskrish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/addresskrish)](https://holopin.io/@addresskrish) -->
-<p align="center" >
-  <img src="https://i.postimg.cc/fWVnxybC/image.jpg" alt="IMAGE" style="width: 100%; height: 50%;" />
-</p>
+[![An image of @addresskrish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/addresskrish)](https://holopin.io/@addresskrish)
 <!-- <p align="center">
   <img src="https://i.postimg.cc/GtxrKhMK/Ah-Negitorow.gif" alt="IMAGE" style="width: 100%; height: 100%;" />
  <br />
