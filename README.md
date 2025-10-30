@@ -1,3 +1,22 @@
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/b4c6c5f2-1120-468a-aecf-a4aad75836be" width="600"/>
+<br />
+
+`Hi I am Krish`  `Full Stack Web Developer`
+
+`Currently working on React Next.js and Tailwind projects`
+
+`Skills`  
+`HTML` `CSS` `JavaScript` `React` `Next.js`  
+`TailwindCSS` `Node.js` `Express.js` `MongoDB` `MySQL`  
+`Python` `C++` `Java` `Figma` `Git` `VS Code`
+
+[`x`](https://x.com/addresskrish) . [`linkedin`](https://www.linkedin.com/in/addresskrish) . [`github`](https://github.com/addresskrish) . [`email`](mailto:addresskrish@gmail.com)
+
+</div>
+
+
 <!-- [![An image of @addresskrish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/addresskrish)](https://holopin.io/@addresskrish) -->
 <!-- <p align="center">
   <img src="https://i.postimg.cc/GtxrKhMK/Ah-Negitorow.gif" alt="IMAGE" style="width: 100%; height: 100%;" />
