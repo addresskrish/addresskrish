@@ -15,7 +15,7 @@
 
 <br />
 
-[`website`](https://addresskrish.versel.app) . [`x`](https://x.com/addresskrish) . [`linkedin`](https://www.linkedin.com/in/addresskrish) . [`github`](https://github.com/addresskrish) . [`email`](mailto:addresskrish@gmail.com)
+[`website`](https://addresskrish.vercel.app) . [`x`](https://x.com/addresskrish) . [`linkedin`](https://www.linkedin.com/in/addresskrish) . [`github`](https://github.com/addresskrish) . [`email`](mailto:addresskrish@gmail.com)
 
 </div>
 <!-- [![An image of @addresskrish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/addresskrish)](https://holopin.io/@addresskrish) -->
