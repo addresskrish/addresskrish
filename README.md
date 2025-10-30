@@ -8,17 +8,22 @@
 
 `Currently working on React Next.js and Tailwind projects`
 
+<br />
+
+[`x`](https://x.com/addresskrish) . [`linkedin`](https://www.linkedin.com/in/addresskrish) . [`github`](https://github.com/addresskrish) . [`email`](mailto:addresskrish@gmail.com)
+
+</div>
+
+<!-- 
+
 `Skills`  
 `HTML` `CSS` `JavaScript` `React` `Next.js`  
 `TailwindCSS` `Node.js` `Express.js` `MongoDB` `MySQL`  
 `Python` `C++` `Java` `Figma` `Git` `VS Code`
 
-<br />
-
-[`website`](https://addresskrish.vercel.app) . [`x`](https://x.com/addresskrish) . [`linkedin`](https://www.linkedin.com/in/addresskrish) . [`github`](https://github.com/addresskrish) . [`email`](mailto:addresskrish@gmail.com)
-
-</div>
-<!-- [![An image of @addresskrish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/addresskrish)](https://holopin.io/@addresskrish) -->
+-->
+<!-- [![An image of @addresskrish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/addresskrish)](https://holopin.io/@addresskrish)
+-->
 <!-- <p align="center">
   <img src="https://i.postimg.cc/GtxrKhMK/Ah-Negitorow.gif" alt="IMAGE" style="width: 100%; height: 100%;" />
  <br />
