@@ -5,13 +5,11 @@
 <br />
 <br />
 
-`Hi I am Krish`  `Full Stack Web Developer`
-
-`Currently working on React Next.js and Tailwind projects`
-
-<br />
-
-[`x`](https://x.com/addresskrish) . [`linkedin`](https://www.linkedin.com/in/addresskrish) . [`github`](https://github.com/addresskrish) . [`email`](mailto:addresskrish@gmail.com)
+`Hi I am Krish` <br />
+`Full Stack Web Developer` <br />
+`Contributing to open source projects` <br />
+`Currently working on React Next.js and Tailwind projects` <br />
+`website` . [`x`](https://x.com/addresskrish) . [`email`](mailto:addresskrish@gmail.com) . `linkdin` . [`youtube`](https://www.youtube.com/@addresskrish) . [`discord`](https://discord.com/users/addresskrish) . [`dribble`](https://dribbble.com/addresskrish)
 
 </div>
 
