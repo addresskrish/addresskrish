@@ -1,19 +1,21 @@
 <div align="center">
 
-<!-- <img src="https://github.com/user-attachments/assets/b4c6c5f2-1120-468a-aecf-a4aad75836be" width="600"/> -->
 <img src="https://github.com/user-attachments/assets/5fecf835-aa84-4780-842f-c2418a4041ce" width="600"/>
 <br />
 <br />
 
-`Hi I am Krish` <br />
-`Full Stack Web Developer` <br />
-`Contributing to open source projects` <br />
-`Currently working on React Next.js and Tailwind projects` <br />
+`Hi I am Krish`  `Full Stack Web Developer`
+
+`Currently working on React Next.js and Tailwind projects`  
+`Contributing to open source projects`
+
 `website` . [`x`](https://x.com/addresskrish) . [`email`](mailto:addresskrish@gmail.com) . `linkdin` . [`youtube`](https://www.youtube.com/@addresskrish) . [`discord`](https://discord.com/users/addresskrish) . [`dribble`](https://dribbble.com/addresskrish)
 
 </div>
 
 <!-- 
+
+
 
 `Skills`  
 `HTML` `CSS` `JavaScript` `React` `Next.js`  
