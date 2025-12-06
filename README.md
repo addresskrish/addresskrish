@@ -5,13 +5,16 @@
 <br />
 
 `Hi I am Krish`  `Full Stack Web Developer`
-<!--
+
 `Working on research and development at ISRO`
 
-`website` . [`x`](https://x.com/addresskrish) . [`email`](mailto:addresskrish@gmail.com) . [`linkdin`](https://www.linkedin.com/in/addresskrish) . [`youtube`](https://www.youtube.com/@addresskrish) .
+`website` . [`x`](https://x.com/addresskrish) . [`email`](mailto:addresskrish@gmail.com) . [`youtube`](https://www.youtube.com/@addresskrish) .
  [`discord`](https://discord.com/users/addresskrish) . [`dribble`](https://dribbble.com/addresskrish)
 
 </div>
+
+<!--
+. [`linkdin`](https://www.linkedin.com/in/addresskrish) 
 -->
 <!-- 
 
