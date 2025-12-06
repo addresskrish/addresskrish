@@ -4,7 +4,9 @@
 <br />
 <br />
 
-`Hi I am Krish`  `Full Stack Web Developer`
+`Hi I am Krish`  
+
+`Full Stack Web Developer`
 
 `Working as research intern at ISRO`
 
