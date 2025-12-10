@@ -4,7 +4,7 @@
 <br />
 <br />
 
-`Hi I am Krish`  
+`Hi I am Kri⚡︎h`  
 
 `Full Stack Web Developer`
 
