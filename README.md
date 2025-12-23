@@ -8,7 +8,7 @@
 
 `Full Stack Web Developer`
 
-`Working as research intern at ISRO`
+`Working as SDE intern at ISRO`
 
 `website` . [`x`](https://x.com/addresskrish) . [`email`](mailto:addresskrish@gmail.com) . 
  [`discord`](https://discord.com/users/addresskrish) . [`dribble`](https://dribbble.com/addresskrish)
