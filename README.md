@@ -13,7 +13,6 @@
  [`discord`](https://discord.com/users/addresskrish) . [`dribble`](https://dribbble.com/addresskrish)
 
 </div>
-<br />
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnkxbWNseXptdnQzZnQ4Zmh2ajBuaHZ0Z3JqZjhhbWVvd3lpYmhyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eh7k9Un3ovgD5CSH5d/giphy.gif" width="600"/>
 
