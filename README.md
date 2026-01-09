@@ -12,12 +12,11 @@
 `website` . [`x`](https://x.com/addresskrish) . [`email`](mailto:addresskrish@gmail.com) . 
  [`discord`](https://discord.com/users/addresskrish) . [`dribble`](https://dribbble.com/addresskrish)
 
-<img src="https://tenor.com/bK9re.gif" height="300" width="600" />
-
 </div>
 
-<!--
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnkxbWNseXptdnQzZnQ4Zmh2ajBuaHZ0Z3JqZjhhbWVvd3lpYmhyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eh7k9Un3ovgD5CSH5d/giphy.gif" height="300" width="600"/>
+
+<!--
 
 . [`linkdin`](https://www.linkedin.com/in/addresskrish) 
 [`youtube`](https://www.youtube.com/@addresskrish) .
